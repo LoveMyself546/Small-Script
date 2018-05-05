@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "即将进行的是nodejs和npm的安装"
 curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
 source ~/.bash_profile
